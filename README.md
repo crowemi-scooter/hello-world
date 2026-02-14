@@ -1,6 +1,6 @@
 # Hello World App
 
-This is a simple Python application that prints "hello world".
+This is a simple Python application that prints "hello scooter".
 
 ## Setup
 
